@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>999DD564-C4E8-4A12-BF3D-71D94BBE2126</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>999DD564-C4E8-4A12-BF3D-71D94BBE2126.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RestaurantApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RestaurantApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace RestaurantApp with scheme RestaurantApp and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>590500909.80494595</real>
+			<key>timeStoppedRecording</key>
+			<real>590500912.45140004</real>
+			<key>title</key>
+			<string>Building workspace RestaurantApp with scheme RestaurantApp and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>999DD564-C4E8-4A12-BF3D-71D94BBE2126</string>
+		</dict>
+		<key>C1589A4F-2A2C-4F82-8288-6AFC89736532</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C1589A4F-2A2C-4F82-8288-6AFC89736532.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RestaurantApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RestaurantApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace RestaurantApp with scheme RestaurantApp and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>590500856.35084903</real>
+			<key>timeStoppedRecording</key>
+			<real>590500862.32146597</real>
+			<key>title</key>
+			<string>Building workspace RestaurantApp with scheme RestaurantApp and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>C1589A4F-2A2C-4F82-8288-6AFC89736532</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
